@@ -1,30 +1,51 @@
 # Getting Started
 
-Voltra is a digital music player that allows you to listen to, manage and sort your music. You can add the music from your local library to Voltra, and if you have our Premium service, you can sync or stream your library from anywhere.
-
 Here's what you'll need to do after you download and install the Voltra desktop app.
 
-Note: **Voltra is currently in Private Beta. [Request an invite.](http://eepurl.com/bOh5G1)**
+## Set Home Directory
 
-## Sign in and Verify
+After installing and opening the desktop app, you will be asked to choose your **Home Directory**. It will try to detect the default music folder on your computer. If you store your music somewhere else, you can change it now. (Don't worry, you can always change it later.)
 
-After installing and opening the desktop app, you'll need to sign up for a free account. You must verify yourself with a mobile phone number (via SMS). *This is how we know you're for real.* We may later also ask you to verify your email address.
+Voltra will watch this folder for any changes, such as new files, changes or deletions.
 
-## Add Music
+![img](/screenshots/1_welcome_choose-directory.png)
 
-After verifying your account, you will have the option to **Select Directory**. Select the directory where you keep your music. 
-*Note: It can be an iTunes folder, our app won't mess with your directories.*
+Note: If you want to start fresh, create a new folder and make it your home directory. Any files you drop into the player will add and copy to this new location.
 
-If you would prefer not to set a folder for your home directory, deselect the "Set as my home directory" checkbox. You can then proceed to add as many folders as you like, and the app will reference these locations. 
+## Sign up and Verify
 
-Note: *This is useful if you have a few different folders where your music is stored, or if you are not ready to upload your whole collection.*
+To use Voltra player, you'll need to sign up for a free account. You must verify yourself with a mobile phone number (via SMS). *This is how we know you're for real.* We may later also ask you to verify your email address.
 
-![img](/screenshots/add-inprogress.png)
+![img](/screenshots/2_welcome_create-account.png)
 
-You may access this screen again at any time from the main menu with **File > Toggle Add Songs** or with the shortcut ~~Shift~~ + ~~Cmd~~ + ~~A~~. If you add new music to the folder you set as your **Home Directory**, you won't need to add them again manually. Voltra will watch that folder, and prompt you to add the new files it finds when you restart the app.
+## Add Profile Picture
 
-Once you are finished adding your music, click **I'm Done** or close the window to continue. It will take you to your Collection screen.
+To add a profile picture, hover and click the camera icon on the default profile image (or drag and drop).
 
-![img](https://www.voltra.co/screenshots/add.png)
+![img](/screenshots/3_welcome_add-profile-image.png)
 
-Next Step: **[Controls](https://voltra.co/docs/controls/)**
+Oh hey there, nice pic :)
+
+![img](/screenshots/4_welcome_new-profile-image.png)
+
+## Create Account
+
+Fill in all that other stuff, and then you're good to move on.
+
+![img](/screenshots/9_welcome_view-password.png)
+
+## Verify Account
+
+Next step, provide a phone number (any phone number) that can receive SMS messages.
+
+![img](/screenshots/10_welcome_add-phone.png)
+
+You'll receive a 4 digit code — enter it to verify your account.
+
+![img](/screenshots/12_welcome_phone-code.png)
+
+If you don't receive the code, click "I didn't get a text!" to return to the previous screen to change your number.
+
+Success! You're registered.
+
+### Next step: **[Adding Music](https://voltra.co/docs/add-music/)**

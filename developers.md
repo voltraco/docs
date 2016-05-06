@@ -1,4 +1,3 @@
-
 # Developers
 
 Plugins can be developed using [`nodejs`](https://nodejs.org).
@@ -22,42 +21,53 @@ module.exports = function(events) {
 
 ## Controls
 
-### controls:load
-Load a song into the player. For example, 
+**controls:load**
+
+Load a song into the player. For example,
 `events.emit('controls:load', '/path/to/file.mp3')`.
 
-### controls:pause
+**controls:pause**
+
 Pause the loaded media.
 
-### controls:play
+**controls:play**
+
 Play the loaded media.
 
-### controls:visualizer:enable
+**controls:visualizer:enable**
+
 Enable the visualizer (also shows the screen).
 
-### controls:visualizer:disable
+**controls:visualizer:disable**
+
 Disable the visualizer (also hides the screen).
 
-### controls:visualizer:enable
+**controls:visualizer:enable**
+
 Enable the visualizer (also shows the screen).
 
-### controls:visualizer:disable
+**controls:visualizer:disable**
+
 Disable the visualizer (also hides the screen).
 
 ## Screens
 
-### queue:show
+**queue:show**
+
 Show the queue.
 
-### queue:hide
+**queue:hide**
+
 Hide the queue.
 
-### :hide
+**:hide**
+
 Hide all closable screens.
 
 ## Data
 
-### controls:visualizer:data
+**controls:visualizer:data**
+
 When the vizualizer is enabled, there will be a
 stream of data that can be listened for. The stream
 contains both `time domain data` and `frequency data`
@@ -70,4 +80,3 @@ this...
   byteTimeDomainData: [...] // Uint8Array
 }
 ```
-

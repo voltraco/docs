@@ -1,6 +1,6 @@
 # Modes
 
-Voltra player comes equipped with a few convenient modes. Full Screen, Mini Mode, and Micro mode (*if you like tiny things*). There is also a Visualizer, which you can write a plugin for if you like, [over here](https://voltra.co/docs/developers/).
+Voltra player comes equipped with a few convenient modes. Full Screen, Mini Mode, and Micro mode.
 
 ## Full Screen
 
@@ -10,16 +10,18 @@ Toggle full screen mode with ~~Shift~~ + ~~Cmd~~ + ~~F~~
 
 Toggle mini mode with ~~Cmd~~ + ~~M~~
 
-![img](https://www.voltra.co/screenshots/mini.png)
+![img](/screenshots/101_mini.png)
 
 ## Micro Mode
 
 Toggle micro mode with ~~Shift~~ + ~~Cmd~~ + ~~M~~
 
-![img](https://www.voltra.co/screenshots/micro.png)
+![img](/screenshots/102_micro.png)
 
-## Visualizer
+## Visualizer ``coming soon``
+
+There is also a Visualizer, which you can write a plugin for if you like, [over here](https://voltra.co/docs/developers/).
 
 Toggle the visualizer with ~~Ctrl~~ + ~~T~~
 
-Next Step: **[Developers](https://voltra.co/docs/developers/)**
+### Next Step: **[Overview](https://voltra.co/docs/overview/)**

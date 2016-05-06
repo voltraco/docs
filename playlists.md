@@ -1,59 +1,80 @@
 # Playlists
 
-Start out by clicking the **Playlist** menu tab. If you're just starting out, you'll see a mostly empty screen with a **New Playlist** option.
+To see your playlists, click the **Playlist View** icon in the menu bar. You don't have any yet, so let's create one.
 
-If you have imported playlists (*not yet supported*), they will be shown here.
-
-![img](https://www.voltra.co/screenshots/playlists.png)
+![img](/screenshots/55_playlists_empty.png)
 
 ## Create a New Playlist
 
-To create a new playlist, click on the new playlist ~~+~~ button.
+To create a new playlist, use the shortcut ~~Cmd~~ + ~~N~~
 
-![img](https://www.voltra.co/screenshots/playlist-new.png)
+Or in the application menu, **File** > **New Playlist**.
 
-A new playlist will appear with the current date as the title and 0 tracks. You can now add music to this playlist.
+![img](/screenshots/38_albums_create-playlist.png)
 
-## Add Music to Playlist
+Choose a Name and Description and click **Confirm** to save it. If you choose not to name it, Voltra will give it a generic name.
 
-To add music to a playlist, browse to an album or song you would like to add. Hover and click on the menu button and choose **Add to Playlist**, then select a playlist from the list to add it to.
+![img](/screenshots/40_albums_create-playlist-desc.png)
 
-To create a new playlist to add this item to, select **New Playlist**. (*not yet supported*)
+You can now add music to this playlist.
 
-You can also add multiple albums or tracks with the marquee:
-Click and drag to select multiple items, right-click and select **Add to Playlist**. (*not yet supported*)
+## Add to Existing Playlist
 
-## Play a Playlist
+To add music to a playlist, browse to an album or song you would like to add. Open the **Context Menu** and choose **Add to Playlist**, then select a playlist from the list to add it to.
 
-Playlists work pretty much the same as albums: hover on the cover to play or for other menu options.
+![img](/screenshots/26_albums_add-to-playlist.png)
+
+## Add to New Playlist
+
+To create a new playlist to add this item to, select **Add to Playlist** > **New Playlist** instead.
+
+![img](/screenshots/37_albums_new-playlist.png)
 
 ## Edit Playlist
 
-Now that you'd added some songs, click on the cover to open your playlist. Simply click on the title or description to edit it, click outside the input box to save. 
+Now that you'd added some songs, click on the cover to open your playlist. Simply click on the title or description to edit it, click outside the input box to save.
 
-*You can edit a playlist while it is empty, or if it has tracks already. Up to you*
-
-You can reorder tracks with click and drag. 
-
-To remove a track from your playlist, select **Remove** from the track menu.
-
-![img](https://www.voltra.co/screenshots/playlist-content.png)
+![img](/screenshots/52_playlist_edit-playlist.png)
 
 Hint: *Toggle Emoji Keyboard with*
 ~~Ctrl~~ + ~~Cmd~~ + ~~Space~~
-
-## Delete Playlist
-
-To delete a playlist, hover the playlist cover, click the playlist menu and select **Delete**.
 
 ## Change Playlist Image
 
 To change the playlist image, click the **Edit** button on the existing cover and select an image from your computer. You can also just drag any image onto the cover to replace it.
 
-![img](https://www.voltra.co/screenshots/playlist-dropimage.png)
-
-![img](https://www.voltra.co/screenshots/playlist-new.png)
+![img](/screenshots/49_playlist_cover.png)
 
 Hint: *Try adding an animated gif.* ;)
 
-Next Step: **[Search](https://voltra.co/docs/search/)**
+## Reorder Tracks
+
+You can reorder tracks with click and drag.
+
+## Remove Tracks
+
+To remove a track from your playlist, select **Remove** from the track menu.
+
+## Play a Playlist
+
+Playlists work pretty much the same as albums: hover on the cover to play or for other menu options.
+
+## Delete Playlist
+
+To delete a playlist, hover the playlist cover, and select **Delete** from the **Context Menu**.
+
+![img](/screenshots/47_playlists_delete-playlist.png)
+
+You were warned.
+
+![img](/screenshots/53_playlists_delete-playlist.png)
+
+## Import Playlist ``coming soon``
+
+Import an existing playlist by clicking **File** > **Import** > **Playlist** in the application menu, or by opening a playlist file (i.e. an .M3U file) with **File** > **Add to Library**.
+
+## Export Playlist ``coming soon``
+
+To export your playlist, go to **File** > **Export** > **Playlist** in the application menu. Choose a filetype to export as.
+
+### Next Step: **[Search](https://voltra.co/docs/search/)**
