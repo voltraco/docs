@@ -18,6 +18,9 @@ module.exports = function(events) {
 }
 ```
 
+When developing, you can inspect the html structure of the player by hitting
+`alt` + `meta` + `i` (same as when working with the chrome web inspector).
+
 # Events
 
 ## Add music events
