@@ -216,6 +216,10 @@ containing the user profile.
 ### auth:show
 If emitted, prompts the user to authenticate.
 
+### drop
+Emitted when something is dropped onto the player. If parsable, a url or file
+path will be provided as the first parameter.
+
 ### quit
 Exists, saves state of application and backs up user data.
 
