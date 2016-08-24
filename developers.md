@@ -6,8 +6,9 @@ We kept things pretty simple and unrestricted. Here's an example:
 
 ## Example
 
-Here we can listen for stuff that gets dropped onto the player.
-The programming interface is exposed though a series of events.
+The programming interface is exposed though a series of events. Both the
+`DOM` and `Node.js` APIs are available from within the plugin. For a more
+complete example see [`this`](https://github.com/voltraco/voltra-plugin-example).
 
 ```javascript
 module.exports = function(events) {
