@@ -2,15 +2,11 @@
 
 In **Profile** view, this is your **App Settings** page.
 
-## Select Home Directory
+## Change Directory
 
-You can set or change your home directory here, by selecting a folder. Voltra will watch this folder for updates.
+To change the watched directory, click **Change** and select a new folder. Voltra will watch this folder for updates.
 
-![img](/screenshots/92_profile_settings-change-dir.png)
-
-## Change Avatar
-
-If you did not add your avatar during the sign up process, you can do it now. Simply click on the default avatar or drag your new image onto it.
+![img](/screenshots/61_profile_settings-directory.png)
 
 ## Themes
 

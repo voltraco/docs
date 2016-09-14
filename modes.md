@@ -10,13 +10,13 @@ Toggle full screen mode with ~~Shift~~ + ~~Cmd~~ + ~~F~~
 
 Toggle mini mode with ~~Cmd~~ + ~~M~~
 
-![img](/screenshots/101_mini.png)
+![img](/screenshots/66_mini-mode.png)
 
 ## Micro Mode
 
 Toggle micro mode with ~~Shift~~ + ~~Cmd~~ + ~~M~~
 
-![img](/screenshots/102_micro.png)
+![img](/screenshots/67_micro-mode.png)
 
 ## Visualizer ``coming soon``
 

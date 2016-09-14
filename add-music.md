@@ -8,11 +8,9 @@ If you would like to add a different file or folder, click **Edit > Add to Libra
 
 You may also add media files by dropping them into the window, it will **copy** them to your chosen Music Directory.
 
-![img](/screenshots/17_add_in-progress.png)
+![img](/screenshots/7b_adding-music.png)
 
 Once you are finished adding your music, click **I'm Done** or close the window to continue. It will take you back to your **Collection** or **Album View** screen.
-
-![img](/screenshots/18_add_done.png)
 
 You may access this screen again at any time from the main menu with **File > Add To Library** or with the Open File shortcut ~~Cmd~~ + ~~O~~  < that's an O
 

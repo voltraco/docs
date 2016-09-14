@@ -4,7 +4,7 @@ Cloud settings can be found in the cloud tab of the profile section.
 
 If you have a free account, you will not see any cloud settings and/or they will be disabled.
 
-![img](/screenshots/84_profile_cloud.png)
+![img](/screenshots/58_profile_cloud.png)
 
 ## Cloud Storage
 
@@ -27,7 +27,5 @@ Tell Voltra how to handle your cloud files.
 **Pause Cloud Syncing** — (on/off)
 
 **Mobile Syncing** — Sync over wifi (on/off)
-
-![img](/screenshots/85_profile_cloud-settings.png)
 
 ### Next Step: **[Account](https://voltra.co/docs/account/)**

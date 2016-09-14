@@ -2,13 +2,17 @@
 
 Account settings are found under the **Account** tab.
 
-![img](/screenshots/86_profile_account.png)
+![img](/screenshots/54_profile_account.png)
 
 ## Change Account Info
 
 Change your account information (Name, Email Address, Username and Telephone Number).
 
-![img](/screenshots/88_profile_account-update.png)
+## Change avatar
+
+Change your avatar by clicking on the existing avatar, or drag and drop an image from your computer.
+
+![img](/screenshots/55_profile_change-image.png)
 
 ## Change Password ``coming soon``
 
@@ -19,8 +23,6 @@ If you're testing the current beta version and you've lost your password, let us
 To sign in or sign out of your account, click the button under the **Authenticate** section.
 
 Voltra may log you out of your account occasionally for security reasons, and it will prompt you to log in again when your account needs to make any internet related requests.
-
-![img](/screenshots/90_profile_auth-sign-in.png)
 
 ## Delete Account ``coming soon``
 

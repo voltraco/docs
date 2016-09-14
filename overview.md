@@ -10,7 +10,7 @@ A quick summary of your collection stats, showing:
 - number of artists
 - number of playlists
 
-![img](/screenshots/82_profile_overview.png)
+![img](/screenshots/56_profile_overview-1.png)
 
 ## Activity
 
@@ -19,6 +19,8 @@ Your activity graph which charts your listening habits.
 ## Albums by Year
 
 The albums in your collection sorted by Year.
+
+![img](/screenshots/57_profile_overview-2.png)
 
 ## Genres
 
