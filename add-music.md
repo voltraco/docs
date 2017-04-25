@@ -1,14 +1,17 @@
 # Adding Music
 
-Your Albums screen should have music in it, since your added your Music Directory already during sign up. If you would like to add more music, follow these steps.
+Your Albums screen should have music in it, since your added your Music Directory already during sign up.
+
+If you signed in but don't have any music added, you'll see this screen:
+![img](/screenshots/3_albums-1.jpg)
+
+If you would like to add more music, follow these steps.
 
 The easiest way to add music is to add it to your chosen Music Directory, the watched folder where Voltra looks for changes.
 
 If you would like to add a different file or folder, click **Edit > Add to Library** in the application menu. You can add as many folders as you like, and the app will reference these locations. *However, this is best if you do not plan on moving the file.*
 
 You may also add media files by dropping them into the window, it will **copy** them to your chosen Music Directory.
-
-![img](/screenshots/7b_adding-music.png)
 
 Once you are finished adding your music, click **I'm Done** or close the window to continue. It will take you back to your **Collection** or **Album View** screen.
 
@@ -38,6 +41,10 @@ If you add new music to the folder you set as your **Music Directory**, you won'
 
 To turn the file watcher on and off, go to **Profile > Settings**.
 
+![img](/screenshots/9_settings-8.jpg)
+
 You can also change the location of your Music Directory here.
+
+![img](/screenshots/9_settings-7.jpg)
 
 ### Next Step: **[Controls](https://voltra.co/docs/controls/)**

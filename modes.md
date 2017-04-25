@@ -10,18 +10,14 @@ Toggle full screen mode with ~~Shift~~ + ~~Cmd~~ + ~~F~~
 
 Toggle mini mode with ~~Cmd~~ + ~~M~~
 
-![img](/screenshots/66_mini-mode.png)
+![img](/screenshots/10_mini.jpg)
+![img](/screenshots/10_mini-dark.jpg)
 
 ## Micro Mode
 
 Toggle micro mode with ~~Shift~~ + ~~Cmd~~ + ~~M~~
 
-![img](/screenshots/67_micro-mode.png)
-
-## Visualizer ``coming soon``
-
-There is also a Visualizer, which you can write a plugin for if you like, [over here](https://voltra.co/docs/developers/).
-
-Toggle the visualizer with ~~Ctrl~~ + ~~T~~
+![img](/screenshots/10_micro.jpg)
+![img](/screenshots/10_micro-dark.jpg)
 
 ### Next Step: **[Overview](https://voltra.co/docs/overview/)**

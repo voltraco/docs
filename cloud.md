@@ -4,8 +4,6 @@ Cloud settings can be found in the cloud tab of the profile section.
 
 If you have a free account, you will not see any cloud settings and/or they will be disabled.
 
-![img](/screenshots/58_profile_cloud.png)
-
 ## Cloud Storage
 
 When you upgrade to a **Monthly Subscription**, your music files (up to **125 GB**) will start to upload to the cloud. You can control the frequency and conditions of this under **Settings**, below.

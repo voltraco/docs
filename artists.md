@@ -8,17 +8,21 @@ To the left of the **Artist View** is a list of all the artists associated with 
 
 Select one to view the albums in your collection by that artist.
 
+![img](/screenshots/6_artists-1.jpg)
+
 ## Artist Page
 
 To view a specific artist, click on the artist name wherever you see a link to it in the app (i.e. under an Album name or on the Currently Playing track.) It will bring you to the **Artist View** with the current artist selected.
 
 ![img](/screenshots/30_artists_view.png)
 
-## Artist Info
+## Artist Bio
 
 Each artist page shows you a short biography (if we can find one), and a list of the albums in your collection by the selected artist (currently sorted Alphabetically).
 
 Click **Read More** to see the full bio.
+
+![img](/screenshots/6_artists-4.jpg)
 
 ## Play
 
@@ -28,7 +32,7 @@ Albums play the same way everywhere. Hover over them here to play.
 
 To **Play All** songs by this artist, hit the play all button at the top of the Albums section.
 
-![img](/screenshots/32_artists_play-all.png)
+![img](/screenshots/6_artists-5.jpg)
 
 ## Edit Artist Name
 
@@ -40,11 +44,9 @@ The default artist image is the first album in the list by that artist.
 
 You can add your own image to each artist page by clicking the **Edit** button (accessed by hovering over the top image, in the top right corner).
 
-![img](/screenshots/51_artists_drop-image.png)
-
 You can also drag an image onto the current artist image to replace it.
 
-![img](/screenshots/52_artists_change-image.png)
+![img](/screenshots/6_artists-2.jpg)
 
 ## Filter Artists
 
@@ -52,7 +54,7 @@ The search bar at the top of the artist list allows you to filter the list by le
 
 Click the **X** to exit filter.
 
-![img](/screenshots/33_artists_filter.png)
+![img](/screenshots/6_artists-3.jpg)
 
 ## Other Albums By Artist ``coming soon``
 

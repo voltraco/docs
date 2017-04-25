@@ -1,15 +1,27 @@
 # Search
 
-In the main nav, select the **Search** icon to open the Search input. You can search for an album name, a track name, or an artist name (via fuzzy search).
+To search for albums and tracks, either Type your search term (outside of any inputs) or open with ~~Cmd~~ + ~~F~~.
 
-Search results will include Albums and Tracks.
+You can search for an album name, a track name, an artist name, or a genre.
 
-![img](/screenshots/45_search.png)
+![img](/screenshots/7_search-2.jpg)
+
+## Genre Search
+
+![img](/screenshots/7_search-3.jpg)
+
+To search for a genre, type the name of the genre and select the relevant filter.
+
+![img](/screenshots/7_search-4.jpg)
+
+## Advanced Search
+
+To turn on advanced search, go to **Settings** -> **Preferences**. This setting will allow you to use regular expressions for searching.
+
+![img](/screenshots/9_settings-10.jpg)
+
+## Close Search
 
 To close search, click the ~~X~~ that replaced the search icon in the top nav, or hit ~~Esc~~.
-
-You can also toggle the search bar with ~~Cmd~~ + ~~F~~
-
-![img](/screenshots/46_search.png)
 
 ### Next Step: **[Editing](https://voltra.co/docs/editing/)**

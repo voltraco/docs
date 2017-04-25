@@ -1,16 +1,14 @@
-# Overview
+# Stats
 
-The profile **Overview** tab shows your stats. We will be expanding this section further in future releases.
+To view your collection stats, click **View -> Collection Stats** in the main menu, or use the shortcut ~~Cmd + B~~
 
-## Collection Stats
-
-A quick summary of your collection stats, showing:
+It shows a quick summary of your collection stats, including:
 - number of tracks
 - number of albums
 - number of artists
 - number of playlists
 
-![img](/screenshots/56_profile_overview-1.png)
+![img](/screenshots/12_stats.jpg)
 
 ## Activity
 
@@ -20,10 +18,8 @@ Your activity graph which charts your listening habits.
 
 The albums in your collection sorted by Year.
 
-![img](/screenshots/57_profile_overview-2.png)
-
 ## Genres
 
-A list of the top Genres in your collection.
+A list of the top genres in your collection.
 
 ### Next Step: **[Cloud](https://voltra.co/docs/cloud/)**
