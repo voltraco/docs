@@ -6,11 +6,14 @@ Welcome to the Desktop Player Documentation! Read on for a walkthrough of the pl
 <br>To contribute to this documentation: Github
 <br>To submit a feature request: Github</p>
 
+
 ## Install Voltra
 How and where to download for each OS.
 
+
 ## Welcome Screen
 After downloading and opening Voltra, you will see the Welcome screen. If you have already created a Voltra account, you may **Sign In** now. If you are a new user, skip to **Create Account**.
+
 
 ### Sign In
 
@@ -19,6 +22,7 @@ After downloading and opening Voltra, you will see the Welcome screen. If you ha
 3.  Click **Sign In** to finish.
 
 <p class="note">You can view your password entry by clicking [closed eye icon] in the password input.</p>
+
 
 ### Create Account
 To sign up for a Voltra account:
@@ -29,6 +33,7 @@ To sign up for a Voltra account:
 4.  Read and agree to the Terms and Conditions.
 5.  Click **Create Account**.
 
+
 ### Create Password
 Voltra requires a secure password. Passwords must have:
 
@@ -36,6 +41,7 @@ Voltra requires a secure password. Passwords must have:
 -   At least one lowercase letter
 -   At least one number
 -   Must be between 6 and 128 characters
+
 
 ### Forgot Password
 No worries! Voltra will send a Reset Password email to the email address you signed up with.
@@ -46,12 +52,15 @@ No worries! Voltra will send a Reset Password email to the email address you sig
 4.  Choose a new password and click **Reset Password**.
 5.  Sign in with your new password.
 
+
 ### Account Settings
 For help updating your Account Settings, please go to the Accounts documentation. (link)
+
 
 ## Import Music
 
 After signing in for the first time or creating a new account, you will be asked to select a media directory.
+
 
 ### Select Directory
 Choose the folder where your music is kept, and Voltra will use this as your **Media Directory**. Voltra will watch this folder for any changes, such as new files, changes or deletions as long as file watching is turned on.
@@ -63,7 +72,8 @@ If you want to start fresh, create a new folder and make it your home directory.
 3.  Voltra will begin importing files from this folder. Import progress is shown on screen.
 4.  Click **Finish** to continue.
 
-<p class="note"><br>Not sure which folder to use? You can select your iTunes directory or the standard Music directory on your computer.</p>
+<p class="note">Not sure which folder to use? You can select your iTunes directory or the standard Music directory on your computer.</p>
+
 
 ### Find Music
 Once you have selected your **Media Directory**, you can still add music from other folders.
@@ -77,6 +87,7 @@ This method is best if you want to pick and choose what you would like to add, b
 
 <p class="note">You can also open the Import screen with `⌘O` on Mac and `^O` on Windows/Linux.</p>
 
+
 ### Drag and Drop
 Voltra also allows you to quickly import music files with drag and drop.
 
@@ -85,10 +96,12 @@ Voltra also allows you to quickly import music files with drag and drop.
 
 Note: You can only import via drag and drop if you have already selected a **Media Directory**. If you have no Media Directory, you will be asked to choose one.
 
+
 ### Watch Folder
 The **Media Directory** you selected is also your **Watch Folder**. Voltra will watch this folder for changes. You can easily add music to Voltra by adding it directly to this folder.
 
 <p class="note">To use this feature, make sure the File Watcher is turned on: **Settings → Preferences → File Watcher**</p>
+
 
 ### Supported Filetypes
 Voltra currently supports the following filetypes.
@@ -118,26 +131,30 @@ The following icons are used to switch the **View**.
 
 The name of the current view is shown in the Header, and the current **View** icon should be selected.
 
+
 ## Controls
 
 The **Control Bar** is the bottom bar that shows the currently playing track. If you do not see a **Control Bar**, this means you have never played any songs. Here you can pause, play or skip the current track. The control bar also shows you:
 
--   track progress bar
--   track name
--   artist name
--   current / total length
--   open queue icon
--   volume settings
+-   Track Progress Bar
+-   Track Name
+-   Artist Name
+-   Current / Total Length
+-   Open Queue Icon
+-   Volume Settings
+
+To open the currently playing album or artist, click on the corresponding name in the **Control Bar**.
+
 
 ### Play Music
 When you hover over an album or track with your cursor, the **Play Button** becomes visible. Clicking the **Play Button** will play the album or track immediately.
-
 
 1.  Hover over an album or track.
 2.  Click the **Play Button**.
 3.  Music is now playing.
 
 <p class="note">If you have just started the app for the first time, clicking a **Play Button** anywhere in the app will bring up the bottom **Control Bar**.</p>
+
 
 ### Pause
 Now that you are playing a track and the **Control Bar** is visible, you can now click the **Pause** icon in the bottom left corner. When a track is paused the **Play** icon will appear. To play a paused track, click the **Play** icon.
@@ -147,7 +164,8 @@ Now that you are playing a track and the **Control Bar** is visible, you can now
 3.  Click the **Play** icon.
 4.  Music is now playing.
 
-Note: You can also toggle **Play** and **Pause** with the shortcut `Space Bar`
+<p class="note">You can also toggle **Play** and **Pause** with the shortcut `Space Bar`</p>
+
 
 ### Skip
 To skip a song, use the **Skip**  icons in the **Control Bar** to go to the next song or previous song.
@@ -163,26 +181,30 @@ If the current song is the last song in the queue, the **Skip Next Control** wil
 
 <p class="note">You can also use the built-in Media Keys on your keyboard to control music, or the shortcuts `⌘ + Left Arrow` and `⌘ + Right Arrow` on Mac, and `⌘ + Left Arrow` and `⌘ + Right Arrow` on Windows/Linux.</p>
 
+
 ### Seek
 The **Progress Bar** shows you the current position of the playing track. Hovering anywhere on the control bar will bring up a handle on the **Progress Bar**, allowing you to drag the time to a different position.
+
 
 ### Volume
 The **Volume Control** is found in the **Control Bar** in the bottom right. Hover to see volume level and click and drag to adjust.
 
 <p class="note">Clicking the volume icon will mute the player.</p>
 
+
 ### Queue
 See Queue →
 
+
 ## Context Menu
 
-Any album or track in Voltra also has a **Context Menu** with more options. To access this menu, hover over the Album or Track and click Context Menu Icon.
+Any album or track in Voltra also has a **Context Menu** with more options. To access this menu, hover over the Album or Track and click the **Context Menu** icon `•••`
 
 1.  Hover an album
 2.  Click Context Menu Icon
 3.  Context menu is open
 
-The following features can be accessed any Album or Track Context Menu:
+The following features can be accessed any Album or Track **Context Menu**:
 
 -   Play Next
 -   Add to Queue
@@ -195,3 +217,6 @@ And, optionally:
 -   Remove (from queue or playlist)
 -   Download (from cloud)
 -   Reveal File (for a track)
+
+
+<a href="#" class="next">Next Section: Views →</a>

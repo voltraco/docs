@@ -1,4 +1,4 @@
-# Views
+# Main Views
 Voltra has 5 main views. The following icons are used to switch the **View**.
 
 -   Albums View
