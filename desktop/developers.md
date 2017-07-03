@@ -2,20 +2,34 @@
 
 Plugins can be developed using [`nodejs`](https://nodejs.org).
 
-We kept things pretty simple and unrestricted. Here's an example:
-
 ## Example
+
+The plugin system design current `UNSTABLE`. But it's really simple, so what
+that means isn't that your plugins wont work, it means we might change the
+design of *how* plugins work. We will be mindful not to make your life too
+difficult.
 
 The programming interface is exposed though a series of events. Both the
 `DOM` and `Node.js` APIs are available from within the plugin. For a more
 complete example see [`this`](https://github.com/voltraco/voltra-plugin-example).
 
+The main entry point for plugins is `~/.Voltra/plugins/index.js`. Let's add
+a module called `~/.Voltra/plugins/foo/index.js`.
+
 ```javascript
-module.exports = function(events) {
-  events.on('drop', event => {
-    console.log(event)
-  })
-}
+require('./foo')
+```
+
+```javascript
+document.addEventListener('DOMContentLoaded', () => {
+  // do a thing without cross browser concerns.
+  // maybe add some elements to the dom
+})
+
+events.on('drop', event => {
+  // do something when dropped.
+})
+
 ```
 
 When developing, you can inspect the html structure of the player by hitting
