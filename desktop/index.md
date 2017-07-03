@@ -1,10 +1,3 @@
-> Welcome to the Voltra Documentation. 
-> *This is a work in progress.* Feel free to contribute on [Github](https://github.com/voltraco/docs).
+# Voltra Desktop Player
 
-# Artists
-
-## Change Image
-
----
-
-<input class="button" value="back to top"></input>
+<p class="note">Find a mistake? We welcome contributions to the docs on our Github repo.</p>

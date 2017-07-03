@@ -1,8 +1,12 @@
-# Getting Started
+# Introduction
 
-Welcome! Blah blah
+Welcome to the Desktop Player Documentation! Read on for a walkthrough of the player features, or navigate to the section you would like to read about.
 
-## Download Voltra
+<p class="note">
+<br>To contribute to this documentation: Github
+<br>To submit a feature request: Github</p>
+
+## Install Voltra
 How and where to download for each OS.
 
 ## Welcome Screen
@@ -59,7 +63,7 @@ If you want to start fresh, create a new folder and make it your home directory.
 3.  Voltra will begin importing files from this folder. Import progress is shown on screen.
 4.  Click **Finish** to continue.
 
-<p class="note">Not sure which folder to use? You can select your iTunes directory or the standard Music directory on your computer.</p>
+<p class="note"><br>Not sure which folder to use? You can select your iTunes directory or the standard Music directory on your computer.</p>
 
 ### Find Music
 Once you have selected your **Media Directory**, you can still add music from other folders.
@@ -71,11 +75,10 @@ Once you have selected your **Media Directory**, you can still add music from ot
 
 This method is best if you want to pick and choose what you would like to add, but do not plan on moving the files. Voltra will link to files outside the **Media Directory**, and the links will be broken if the files are moved.
 
-<p class="note">You can also open the Import screen with `⌘ + O`</p>
+<p class="note">You can also open the Import screen with `⌘O` on Mac and `^O` on Windows/Linux.</p>
 
 ### Drag and Drop
 Voltra also allows you to quickly import music files with drag and drop.
-
 
 1.  Drag a file onto the window (anywhere but inside an existing input).
 2.  Files will be imported, and copied to your **Media Directory**.
@@ -115,18 +118,16 @@ The following icons are used to switch the **View**.
 
 The name of the current view is shown in the Header, and the current **View** icon should be selected.
 
-
 ## Controls
 
 The **Control Bar** is the bottom bar that shows the currently playing track. If you do not see a **Control Bar**, this means you have never played any songs. Here you can pause, play or skip the current track. The control bar also shows you:
 
-
--  track progress bar
--  track name
--  artist name
--  current / total length
--  open queue icon
--  volume settings
+-   track progress bar
+-   track name
+-   artist name
+-   current / total length
+-   open queue icon
+-   volume settings
 
 ### Play Music
 When you hover over an album or track with your cursor, the **Play Button** becomes visible. Clicking the **Play Button** will play the album or track immediately.
@@ -160,7 +161,7 @@ To skip a song, use the **Skip**  icons in the **Control Bar** to go to the next
 
 If the current song is the last song in the queue, the **Skip Next Control** will be disabled.
 
-<p class="note">You can also use the built-in Media Keys on your keyboard to control music, or the shortcuts `⌘ + Left Arrow` and `⌘ + Right Arrow`.</p>
+<p class="note">You can also use the built-in Media Keys on your keyboard to control music, or the shortcuts `⌘ + Left Arrow` and `⌘ + Right Arrow` on Mac, and `⌘ + Left Arrow` and `⌘ + Right Arrow` on Windows/Linux.</p>
 
 ### Seek
 The **Progress Bar** shows you the current position of the playing track. Hovering anywhere on the control bar will bring up a handle on the **Progress Bar**, allowing you to drag the time to a different position.
@@ -175,10 +176,10 @@ See Queue →
 
 ## Context Menu
 
-Any album or track in Voltra also has a **Context Menu** with more options. To access this menu, hover over the Album or Track and click [Context Menu Icon].
+Any album or track in Voltra also has a **Context Menu** with more options. To access this menu, hover over the Album or Track and click Context Menu Icon.
 
 1.  Hover an album
-2.  Click [Context Menu Icon]
+2.  Click Context Menu Icon
 3.  Context menu is open
 
 The following features can be accessed any Album or Track Context Menu:
