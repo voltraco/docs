@@ -9,11 +9,18 @@ Voltra has 5 main views. The following icons are used to switch the **View**.
 
 ## Albums View
 
-In Albums view, you can browse all the albums you imported to Voltra. Here you can sort your albums, play or add albums to the queue, add an album to a playlist, and edit or delete an album.
+In **Albums View**, you can browse all the albums you imported to Voltra. Here you can sort your albums, play or add albums to the queue, add an album to a playlist, and edit or delete an album.
 
 ### Sort Albums
-The Albums view can be sorted by: **A – Z**, **Z – A**, **Recently Added**, **Recently Played**, and **Random**.
+The Albums view can be sorted by:
 
+-   A – Z
+-   Z – A
+-   Recently Added
+-   Recently Played
+-   Random
+
+How to Sort:
 1.  To sort albums, hover over the Albums label in the header.
 2.  A sort menu will appear with the current sort selected.
 3.  Choose a different sort view.

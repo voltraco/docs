@@ -234,9 +234,9 @@ Read more about the Queue [here](https://docs.voltra.co/desktop/more-features/qu
 
 Any album or track in Voltra also has a **Context Menu** with more options. To access this menu, hover over the Album or Track and click the **Context Menu** icon `•••`
 
-1.  Hover an album
-2.  Click Context Menu Icon
-3.  Context menu is open
+1.  Hover over any album
+2.  Click **Context Menu** Icon `•••`
+3.  **Context Menu** is now open
 
 The following features can be accessed any Album or Track **Context Menu**:
 
@@ -253,4 +253,4 @@ And, optionally:
 -   Reveal File (for a track)
 
 
-<a href="#" class="next">Next Section: Views →</a>
+<a href="/desktop/main-views" class="next">Next Section: Main Views →</a>
