@@ -1,5 +1,3 @@
-# Documentation
-
 ### [Desktop Player](/desktop)
 
 The Voltra Desktop Music Player runs on Windows, Linux and macOS. It can play
@@ -28,3 +26,5 @@ billing info, public profiles and **Voltra Music Shop** details.
 
 [0]:https://account.voltra.co
 [1]:https://stockroom.voltra.co
+
+[`Edit on Github`](https://github.com/voltraco/docs/)
