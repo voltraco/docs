@@ -1,2 +1,1 @@
-# docs
-Voltra Co. Documentation
+https://docs.voltra.co
