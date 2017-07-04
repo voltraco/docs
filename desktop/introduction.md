@@ -8,8 +8,43 @@ Welcome to the Desktop Player Documentation! Read on for a walkthrough of the pl
 
 
 ## Install Voltra
-How and where to download for each OS.
 
+### Mac
+
+System requirements: OS 10.9 or later
+
+How to install:
+1.  Download the `.dmg` file
+2.  Navigate to your Downloads folder and double-click the `.dmg` to open
+3.  When the install modal appears, drag the **Voltra Icon** (left) onto the **Applications** folder (right)
+4.  After installation is complete, navigate to your Applications folder and double-click the Voltra App Icon to open
+5.  Eject the Voltra installer
+
+### Windows
+System requirements: Windows 10 or later
+
+TODO
+How to install:
+
+1.  Download the `.exe` file.
+2.  Double-click the file to open the installer.
+etc.
+
+### Linux
+System requirements: 64-bit Linux
+
+The following installers are available for Linux operating systems:
+-   .AppImage
+-   .deb
+-   .rpm
+-   .tar.gz
+
+TODO
+How to install with .AppImage:
+
+1.  Download the `.AppImage` file.
+2.  Navigate to your Downloads folder and double-click the `.AppImage` to open.
+etc.
 
 ## Welcome Screen
 After downloading and opening Voltra, you will see the Welcome screen. If you have already created a Voltra account, you may **Sign In** now. If you are a new user, skip to **Create Account**.
@@ -21,21 +56,21 @@ After downloading and opening Voltra, you will see the Welcome screen. If you ha
 2.  Enter your email address and password.
 3.  Click **Sign In** to finish.
 
-<p class="note">You can view your password entry by clicking [closed eye icon] in the password input.</p>
+<p class="note">You can view your password entry by clicking ![Closed Eye Icon](./images/icon-eye-closed.svg) in the password input.</p>
 
 
 ### Create Account
-To sign up for a Voltra account:
+To sign up for a new Voltra account:
 
-1.  Click **New Account**.
-2.  Enter your email address.
-3.  Choose a username and password (for password requirements, see Create Password).
-4.  Read and agree to the Terms and Conditions.
-5.  Click **Create Account**.
+1.  Click **New Account**
+2.  Enter your email address
+3.  Choose a username and password (for password requirements, see Create Password)
+4.  Read and agree to the Terms and Conditions
+5.  Click **Create Account**
 
 
 ### Create Password
-Voltra requires a secure password. Passwords must have:
+Creating a Voltra account requires a strong password. Passwords must have:
 
 -   At least one uppercase letter
 -   At least one lowercase letter
@@ -44,18 +79,17 @@ Voltra requires a secure password. Passwords must have:
 
 
 ### Forgot Password
-No worries! Voltra will send a Reset Password email to the email address you signed up with.
+No worries! Voltra will send a **Reset Password** email to the email address you signed up with.
 
 1.  When signing in, click on **Forgot Password**.
-2.  Check your inbox for an email from Voltra.
-3.  Click the **Reset Password** link in the email.
-4.  Choose a new password and click **Reset Password**.
-5.  Sign in with your new password.
+2.  Check your inbox for an email from Voltra
+3.  Click the **Reset Password** link in the email
+4.  Choose a new password and click **Reset Password**
+5.  Sign in with your new password
 
 
 ### Account Settings
-For help updating your Account Settings, please go to the Accounts documentation. (link)
-
+For help updating your Account Settings, please go to the [Account documentation](https://docs.voltra.co/account).
 
 ## Import Music
 
@@ -179,7 +213,7 @@ To skip a song, use the **Skip**  icons in the **Control Bar** to go to the next
 
 If the current song is the last song in the queue, the **Skip Next Control** will be disabled.
 
-<p class="note">You can also use the built-in Media Keys on your keyboard to control music, or the shortcuts `⌘ + Left Arrow` and `⌘ + Right Arrow` on Mac, and `⌘ + Left Arrow` and `⌘ + Right Arrow` on Windows/Linux.</p>
+<p class="note">You can also use the built-in Media Keys on your keyboard to control music, or the shortcuts `⌘ <` and `⌘ >` on Mac, and `^ <` and `^ >` on Windows/Linux.</p>
 
 
 ### Seek
@@ -193,7 +227,7 @@ The **Volume Control** is found in the **Control Bar** in the bottom right. Hove
 
 
 ### Queue
-See Queue →
+Read more about the Queue [here](https://docs.voltra.co/desktop/more-features/queue).
 
 
 ## Context Menu
