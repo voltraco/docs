@@ -3,8 +3,8 @@
 Welcome to the Desktop Player Documentation! Read on for a walkthrough of the player features, or navigate to the section you would like to read about.
 
 <p class="note">
-<br>To contribute to this documentation: Github
-<br>To submit a feature request: Github</p>
+<br>To contribute to this documentation: [Github](https://github.com/voltraco/docs)
+<br>To submit a feature request: [Send Feedback](https://voltra.co/feedback/)</p>
 
 
 ## Install Voltra
