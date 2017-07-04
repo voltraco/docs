@@ -1,5 +1,3 @@
-# Documentation, Releases & Support
-
 ### [Desktop Player](/desktop)
 
 The Voltra Desktop Music Player runs on Windows, Linux and macOS. It can play
