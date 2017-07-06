@@ -11,4 +11,4 @@ This repo contains documentation for the following Voltra Products:
 -   Stockroom
 -   Shop (coming soon)
 
-![Docs](https://docs.voltra.co/docs.png)
+![Docs](https://docs.voltra.co/images/docs.png)
