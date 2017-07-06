@@ -56,7 +56,7 @@ After downloading and opening Voltra, you will see the Welcome screen. If you ha
 2.  Enter your email address and password.
 3.  Click **Sign In** to finish.
 
-<p class="note">You can view your password entry by clicking ![Closed Eye Icon](./images/icon-eye-closed.svg) in the password input.</p>
+<p class="note">You can view your password entry by clicking the eye icon in the password input.</p>
 
 
 ### Create Account
