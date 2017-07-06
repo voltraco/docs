@@ -7,3 +7,6 @@
 ## Voltra Audio Archive
 
 ## Upgrade
+
+## Cancel Subscription
+TBD
