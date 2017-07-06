@@ -5,7 +5,7 @@ Manage your Voltra Account settings.
 
 A Voltra Account can be created within any Voltra application (such as the Desktop or Mobile player), as well as on the web. If you do not have a Voltra Account or you would like to create a New Account, follow these steps:
 
-1.  Go to [account.voltra.co](https://account.voltra.co).
+1.  Go to [account.voltra.co](https://account.voltra.co)
 2.  Click **Create An Account**
 3.  Enter your email address, and choose a username and password
 4.  Read and agree to the Terms and Conditions
@@ -15,7 +15,7 @@ A Voltra Account can be created within any Voltra application (such as the Deskt
 
 To Login to your Voltra Account on the web:
 
-1.  Go to [account.voltra.co](https://account.voltra.co).
+1.  Go to [account.voltra.co](https://account.voltra.co)
 2.  Enter your email address and password
 3.  Click **Login**
 
@@ -47,7 +47,7 @@ If you are logged in:
 3.  Check your email for a link to reset your password
 
 If you are logged out:
-1.  Go to [account.voltra.co](https://account.voltra.co).
+1.  Go to [account.voltra.co](https://account.voltra.co)
 2.  Click **Forgot Password**
 3.  On the Forgot Password screen, make sure the email address is correct, and click **Reset Password**
 4.  Check your email for a link to reset your password

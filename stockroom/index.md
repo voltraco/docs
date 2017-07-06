@@ -5,7 +5,7 @@ Welcome to the Stockroom documentation!
 <p class="note">This is pre-release documentation. More information will be provided when this product has officially launched.</p>
 
 ### Questions
-Have a question? Check out our [FAQ](/stockroom/faq), or send it directly to us with [this form](https://voltra.co/contact/).
+Have a question? Send it directly to us with [this form](https://voltra.co/contact/).
 
 ### Contribute
 
