@@ -6,15 +6,13 @@ The Voltra Desktop player is a desktop Application for managing your music, and 
 
 ### Where can I download the desktop player?
 
-You can currently request an invitation to our private beta at voltra.co/signup We will be lauching public beta soon, and the app will also be available in the Mac app store.
+You can currently request an invitation to our private beta at [voltra.co/signup](https://voltra.co/signup). We will be launching public beta soon, and the app will also be available in the Mac app store.
 
 ### How do I download new updates?
 
-If you're on the latest Mac version, Voltra will prompt you to update within the app.
+If you're on a Mac or Windows version, Voltra should prompt you to update within the app. If it does not prompt you, you may need to install the new version from the download link.
 
-If you're on Linux, you'll need to download the new version of the app every time (auto updater coming soon)
-
-<p class="note">If you're on a Mac and a Voltra version older than 2.2.0, you'll need to download the app again from the download page. (Beta group — the download link sent to your email.)</p>
+<p class="note">If you're on Linux, you'll need to download the new version of the app every time (auto updater coming soon).</p>
 
 ### How do I change my password?
 

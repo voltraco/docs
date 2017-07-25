@@ -17,7 +17,6 @@ The website [account.voltra.co][0] is for users to manage their personal
 account, billing info and any assets that are stored in the **Voltra Audio
 Archive**.
 
-
 ### [Stockroom for Artists](/stockroom)
 
 The website [stockroom.voltra.co][1] helps artists to manage their accounts,

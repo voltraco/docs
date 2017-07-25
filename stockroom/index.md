@@ -2,7 +2,8 @@
 
 Welcome to the Stockroom documentation!
 
-<p class="note">This is pre-release documentation. More information will be provided when this product has officially launched.</p>
+The website [stockroom.voltra.co](https://stockroom.voltra.co) helps artists to manage their accounts,
+billing info, public profiles and **Voltra Music Shop** details.
 
 ### Questions
 Have a question? Send it directly to us with [this form](https://voltra.co/contact/).

@@ -81,7 +81,7 @@ Creating a Voltra account requires a strong password. Passwords must have:
 ### Forgot Password
 No worries! Voltra will send a **Reset Password** email to the email address you signed up with.
 
-1.  When signing in, click on **Forgot Password**.
+1.  When signing in, click on **Forgot Password**
 2.  Check your inbox for an email from Voltra
 3.  Click the **Reset Password** link in the email
 4.  Choose a new password and click **Reset Password**

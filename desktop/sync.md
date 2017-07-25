@@ -10,20 +10,32 @@ To upgrade your account to premium from within the app:
 4.  If you have no subscription, click **Change** to upgrade to **Voltra Premium**
 
 ## Turn Sync on/off
-_Sync must first be activated_
+_Sync must first be activated with Voltra Premium_
 
 To turn Sync on or off:
 1.  Navigate to the **Settings View**
 2.  Click on the **Sync** tab
 3.  Under **Sync**, click the toggle to turn **ON** (or **OFF** if it is already on)
 
+Keep Sync turned **ON** to receive metadata updates from your other devices, and to backup any changes in your metadata and files.
+
 ## Synced Items
 If you have sync turned on and all your tracks and albums are synced to the cloud, you will not see any visual indicators. You can see what it synced by changing the [Display](/desktop/sync/change-sync-display).
 
-## Cloud Only
-When something **exists in the cloud but not on your computer**, you will see a small cloud icon near the item indicating it is **cloud only**.
+## Remote Items
+When something **exists in the cloud but not on your computer**, you will see a small cloud icon near the item indicating it is **remote**.
 
-If you delete a cloud only item, it will be deleted permanently from the cloud and you do not have a local backup.
+If you delete a remote item, it will be deleted permanently from the cloud and **all other devices.**
+
+To **play a remote item**, you must be connected to the internet.
+
+## Download
+To download a remote item
+
+1.  Hover over the track or album you would like to download
+2.  Click the `•••` button
+3.  Click download
+4.  Item is downloaded to your music directory and will play directly from the local file
 
 ## Change Sync Display
 1.  Navigate to the **Settings View**
@@ -32,16 +44,14 @@ If you delete a cloud only item, it will be deleted permanently from the cloud a
 
 If you would like to see all of your music (default), select **All Music**.
 
-If you would like to see the music that you have _only_ on your computer (not synced to the cloud yet), select **Music only on this computer**
+If you would like to see the music that you have on your computer, select **Downloaded Music**
 
-If you would like to see music that is _only_ in the cloud and not on your computer, select **Music only in the cloud**
+## Check for Downloads
+This will tell Voltra to pull down any updates of your cloud data that have no been seen on this device.
 
-If you would like to see what the status of your synced items is, select **Synced Music**
-
-## Resync
-Resync will tell Voltra to pull down a fresh version of your cloud data.
-
-How to Resync:
+How to Check for Downloads:
 1.  Navigate to the **Settings View**
 2.  Click on the **Sync** tab
-3.  Under **Resync**, click the **Resync** button
+3.  Under **Downloads**, click the **Check** button to Check for Downloads.
+
+<p class="note">Your data may change if you use another device to access the data (i.e. another computer or a mobile device).</p>
