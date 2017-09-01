@@ -1,4 +1,4 @@
-# Artist Profiles
+# Setting Up Your Profile
 
 ## Public Profile
 

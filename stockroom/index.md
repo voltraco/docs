@@ -1,9 +1,6 @@
-# The Voltra Stockroom
+# Voltra Artist Guide
 
-Welcome to the Stockroom documentation!
-
-The website [stockroom.voltra.co](https://stockroom.voltra.co) helps artists to manage their accounts,
-billing info, public profiles and **Voltra Music Shop** details.
+Welcome to the Voltra Artist Guide! The website [stockroom.voltra.co](https://stockroom.voltra.co) allows artists you manage your account, billing and payout info, public profile and Voltra Shop details.
 
 ### Questions
 Have a question? Send it directly to us with [this form](https://voltra.co/contact/).

@@ -18,16 +18,13 @@ Cover Requirements:
 -   Must be a `.jpg` or `.png`
 
 ### Choose a Release Type
-Select **Album** to release a full-length Album, or select **Single** for singles.
+Select **Album** to release a full-length Album, **Single** for singles, or **Podcast** to upload a podcast.
 
 ### Release Title
 Enter the **Title** of your release.
 
 ### Release Artist
-The release **Artist** will be the artist name on your account by default. If you would like to upload a release by a different artist, you may need to upgrade to a Label account.
-
-### Choose Genre(s)
-Enter at least one **Genre** for this release.
+The release **Artist** will be the artist name on your account by default. If you would like to upload a release by a different artist, you may need to create a new account for that artist, or upgrade to a Label account.
 
 ### Set Release Date
 Choose the release date for this release. It can be in the past if it was previously released. If you do not select a release date, it will default to the day you create the release.
@@ -37,12 +34,53 @@ Choose the price for your release. If you do not enter a price, it will be set t
 
 When this section is complete, click **Save and Continue**.
 
+## Discovery
+
+The better you describe your music, the more likely people will be to find it! Add as many details as you can to your release.
+
+### Select Primary Genre
+Choose the main genre that describes your release, i.e. Blues.
+
+### Select Secondary Genre
+Enter a second, more specific genre to this release, i.e. Delta Blues.
+
+### Enter Tags
+Enter tags that describe this release, i.e. soulful, fiery. It is better to add just a handful of the most relevant tags.
+
 ### More Info
 You can optionally add more information about this release such as the **Record Label**, **Catalog Number**, **Disc Number**, **UPC Code**, **Album Description**, and **Credits**.
 
+### Description
+Enter a description for this release, which will be publicly displayed to your customers.
+
 When this section is complete, click **Save and Continue**.
 
-## Add Tracks to Release
+## Optional
+
+### Record Label
+
+If you are releasing this under a Record Label, add it here. Otherwise, leave blank.
+
+### Catalog Number
+
+A Catalog Number is a personal or business identifier of a release that will show up on your sales reports. Your record label will have one, or if you don't have a record label you can create your own (optional).
+
+### Disc Number
+
+If this release has multiple discs, please include the disc number and upload each disc as a separate release.
+
+### UPC
+
+Add a UPC Code if you have one. A UPC is a barcode for your release. Read more about [UPC codes](https://en.wikipedia.org/wiki/Universal_Product_Code).
+
+### Credits
+
+Add your liner notes or credits here. Please credit as many people who worked on your release as possible!
+
+## Add Tracks to a Release
+
+In the **Files** section of your release, you can upload and edit tracks.
+
 In order to upload a track to Voltra, it must meet the following requirements:
 
 -   Must be a high-quality, lossless filetype (.wav, .flac)
@@ -53,11 +91,11 @@ Read more about what you can upload in the [Stockroom FAQ](/faq)
 ### Upload a Track
 
 To upload a track:
-1.  From the open release, navigate to the **Tracklist** tab
+1.  From the currently open release, navigate to the **Files** tab
 2.  Click **Add Track** and select your track file from the file picker
 3.  Click on the track and edit track information
 4.  Repeat until all tracks are added
-5.  Click **Save and Continue**
+5.  Click **Save** to save it as a Draft, or **Publish** to save and make it public.
 
 ### Track Title
 Enter the title of your track.
@@ -69,18 +107,18 @@ Enter the track artist (if the artist is something other than your artist name, 
 Enter the price for your track.
 
 ### Track ISRC
-Enter the [ISRC](http://isrc.ifpi.org/en/) if you have one.
+Enter the [ISRC](http://isrc.ifpi.org/en/) if you have one. An ISRC is an audio recording identifier similar to a UPC, but for individual recordings.
 
-### Add Credits
+### Add Track Credits
 To add credits to this track, click **More** and enter credits in the space provided.
 
-### Add Lyrics
+### Add Track Lyrics
 To add lyrics to this track, click **More** and enter lyrics in the space provided.
 
 ## Edit Track
 To Edit a Track:
 1.  Click on the release you would like to edit to open it
-2.  Navigate to **Tracklist** tab
+2.  Navigate to **Files** tab
 3.  Click on the track you would like to Edit
 4.  Make changes and click **Save**
 
@@ -88,7 +126,7 @@ When this section is complete, click **Save and Continue**.
 
 ## Publish Release
 
-Publishing a release happens as the final step of creating a release. In the Publish section, you have access to the following options:
+Clicking **Publish** will make the release public and available for purchase. If your release date is in the future, your release will show on your profile but there will be no option to preview or buy until the release date.
 
 ### Feature a Release
 
