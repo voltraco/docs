@@ -1,5 +1,9 @@
 # Main Views
 
+There are 4 main views in the app: **Albums**, **Artists**, **Tracks** and **Settings**. Swipe between them to navigate.
+
+**Search**, **Queue**, **Album** pages and **Artist** pages open as overlays to the main views.
+
 ## Albums
 
 In the **Albums** view, you can see all albums added to your **Voltra Audio Archive** and/or your **iTunes** albums if you have enabled the **iTunes Syncing**. From here you can browse, play and download your albums.

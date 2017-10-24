@@ -8,7 +8,7 @@ Voltra Mobile Player is currently in Beta for iOS, and the Android app is in pro
 
 If you have a [Voltra Audio Archive](https://voltra.co/premium) subscription, choose **Sync with Voltra** to import the music you have uploaded to the Cloud from the [Voltra Desktop App](https://voltra.co/desktop).
 
-To upgrade your account, see [Upgrade](/mobile/update-account.html#upgrade).
+To upgrade your account, see **[Upgrade](/mobile/update-account.html#upgrade)**.
 
 ### Sync with iTunes
 

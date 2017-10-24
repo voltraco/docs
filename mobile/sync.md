@@ -1,13 +1,14 @@
 # Sync
 
-Voltra offers a cloud sync service called the **Voltra Audio Archive** that allows you to back up all of your music files, images and metadata. In order to sync your data to the cloud, you need to have a **Voltra Premium** account.
-[How to Upgrade →](/mobile/update-account.html#upgrade)
+Voltra offers a cloud sync service called the **[Voltra Audio Archive](https://voltra.co/premium)** that allows you to back up all of your music files, images and metadata. In order to sync your data to the cloud, you need to have a **Voltra Premium** account.
 
-If you have not enabled the **Voltra Sync** the first time you have launched the app you can enable it in the **Settings** view, you might be prompted to register or sign in.
+**[How to Upgrade →](/mobile/update-account.html#upgrade)**
+
+If you have not enabled the **Voltra Sync** the first time you have launched the app you can enable it in the **Settings** view, you might be prompted to register or **[Sign In](/mobile/update-account.html#sign-insign-out)**.
 
 ## Sync Offline
 
-You can download individual tracks, albums or artists by opening the **Context Menu** and selecting the **Sync Offline** option. This is only available for tracks that are stored on your **Voltra Audio Archive**.
+You can download individual tracks, albums or artists by opening the **Context Menu** and selecting the **Sync Offline** option. This is only available for tracks that are stored on your **[Voltra Audio Archive](https://voltra.co/premium)**.
 
 ## Remove Download
 
