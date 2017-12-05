@@ -149,8 +149,8 @@ Voltra currently supports the following filetypes.
 | OGG  | <span></span>  | <span></span>  | <span></span>   |
 | FLAC | <span></span>  | <span></span>  | <span></span>   |
 | OPUS | <span></span>  | <span></span>  | <span></span>   |
-| ALAC (16-bit) | <span></span>  | <span></span>  | <span></span>   |
-| ALAC (24-bit) |   | <span></span>  |   |
+| ALAC (16-bit) | <span></span>  | <span></span>  | <span></span>  |
+| ALAC (24-bit) |   | <span></span>  | <span></span> |
 
 
 ## Navigation
