@@ -4,7 +4,7 @@
 The Voltra Music Server stores and syncs your music collection seamlessly with the Voltra desktop and mobile applications without the use of the cloud — stream your music directly from your home.
 
 ### How do I set it up?
-1.  Plug it in via Ethernet cable to your modem or router, and into the wall using the power adapter.
+1.  Plug it in via Ethernet cable to your modem or router, and into an outlet using the power adapter.
 2.  Connect with the Voltra Desktop Player to add your music.
 3.  Connect with your mobile device to stream your music.
 
