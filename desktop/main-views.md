@@ -34,7 +34,7 @@ How to Sort:
 2.  Click the **Play Button**
 3.  Album is now playing, and the new album resets the **Queue**
 
-<p class="note">To learn more about the queue, skip to  [Queue](https://docs.voltra.co/desktop/more-features/queue).</p>
+<p class="note">To learn more about the queue, skip to  [Queue](https://docs.voltra.co/desktop/more-features.html#queue).</p>
 
 ### Play Album Next
 
@@ -49,10 +49,10 @@ How to Sort:
 3.  Album is added to the end of the **Queue**
 
 ### Add Album to a Playlist
-See [Playlists](/desktop/main-views/playlists-view)
+See [Playlists](/desktop/main-views.html#playlists-view)
 
 ### Edit Album
-See [Editing](/desktop/more-features/editing)
+See [Editing](/desktop/more-features.html#editing)
 
 ### Delete Album
 To delete an album:
@@ -209,7 +209,7 @@ This feature is coming soon.
 In **Settings View**, you can update your player preferences, change the color theme, set or change your media directory, turn file watching on and off, and more. You can also sign in and out, upgrade to premium, and manage sync settings here.
 
 ### Change Theme
-See [Customization](/desktop/more-features/customization).
+See [Customization](/desktop/more-features.html#customization).
 
 ### Change Navigation
 By default, Voltra will select the correct Navigation for your operating system. There are two options for navigation: Mac and Windows/Linux.
@@ -247,7 +247,7 @@ To turn on **Advanced Search**:
 2.  Click on the **Preferences Tab** (if it is not already selected)
 3.  Under **Advanced Search**, the toggle should be **OFF** by default
 4.  Click the toggle to turn **ON**
-5.  You can now enter a regular expression into [Search](/desktop/more-features/search)
+5.  You can now enter a regular expression into [Search](/desktop/more-features.html#search)
 
 ### Beta Settings
 Voltra has a few **Beta Settings** which are used to reset your data in the event that it gets corrupted. The following options will allow you to delete your data in the following locations:
@@ -285,6 +285,6 @@ To manage your account settings, please:
 -   read the [Account Documentation](/account).
 
 ### Sync
-See [Sync](/desktop/sync)
+See [Sync](/desktop/sync.html)
 
-<a href="/desktop/more-features" class="next">Next Section: More Features →</a>
+<a href="/desktop/more-features.html" class="next">Next Section: More Features →</a>

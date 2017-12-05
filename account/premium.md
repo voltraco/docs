@@ -23,7 +23,7 @@ See Voltra Audio Archive for details.
 ### Mobile Syncing
 With Voltra Premium, you can seamlessly sync between Voltra Desktop and Mobile players across your devices. Just sign in on your mobile device to access your collection of music stored in the cloud.
 
-For info on how to sync your music, please see the [Voltra Desktop docs](/desktop/sync).
+For info on how to sync your music, please see the [Voltra Desktop docs](/desktop/sync.html).
 
 <p class="note">Development in progress. More information coming soon.</p>
 

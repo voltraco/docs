@@ -18,7 +18,7 @@ To turn Sync on or off:
 3.  Under **Sync**, click the toggle to turn **ON** (or **OFF** if it is already on)
 
 ## Synced Items
-If you have sync turned on and all your tracks and albums are synced to the cloud, you will not see any visual indicators. You can see what it synced by changing the [Display](/desktop/sync/change-sync-display).
+If you have sync turned on and all your tracks and albums are synced to the cloud, you will not see any visual indicators. You can see what it synced by changing the [Display](/desktop/sync.html#change-sync-display).
 
 ## Cloud Only
 When something **exists in the cloud but not on your computer**, you will see a small cloud icon near the item indicating it is **cloud only**.

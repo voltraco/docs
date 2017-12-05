@@ -16,7 +16,7 @@ To search for a Genre, type the name of the genre and a list of options will app
 
 ### Advanced Search
 Voltra allows you to search using [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) directly in the search bar.
-<p class="">To turn on Advanced Search, see [Settings](/desktop/main-views/turn-on-advanced-search). </p>
+<p class="">To turn on Advanced Search, see [Settings](/desktop/main-views.html#turn-on-advanced-search). </p>
 
 ## Queue
 In Queue view, you can see the music you have queued up to play, remove and reorder upcoming tracks, see the currently playing track and history, shuffle.
@@ -166,4 +166,4 @@ Toggle **Mini Mode** with `⌘ M` on Mac and `^ M` on Windows/Linux.
 ### Micro Mode
 Toggle **Micro Mode** with `⌥ ⌘ M` on Mac and `⌥ ^ M` on Windows/Linux.
 
-<a href="/desktop/sync" class="next">Next Section: Sync →</a>
+<a href="/desktop/sync.html" class="next">Next Section: Sync →</a>

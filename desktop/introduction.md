@@ -23,12 +23,11 @@ How to install:
 ### Windows
 System requirements: Windows 10 or later
 
-TODO
 How to install:
 
-1.  Download the `.exe` file.
-2.  Double-click the file to open the installer.
-etc.
+1.  Select Save or Save As to download the `.exe` file from [voltra.co/desktop/windows](https://voltra.co/desktop/windows)
+2.  If you select Save, the program file is saved in your Downloads folder.
+3.  Or, if you select Save as, you can choose where to save it, like your desktop.
 
 ### Linux
 System requirements: 64-bit Linux
@@ -39,12 +38,13 @@ The following installers are available for Linux operating systems:
 -   .rpm
 -   .tar.gz
 
-TODO
 How to install with .AppImage:
 
-1.  Download the `.AppImage` file.
-2.  Navigate to your Downloads folder and double-click the `.AppImage` to open.
-etc.
+1.  Download the `.AppImage` file from [voltra.co/desktop/linux](https://voltra.co/desktop/linux)
+2.  Right click on the downloaded .appimage file and select Properties.
+3.  In the Permissions tab, check the box that says “Allow executing file as program”.
+4.  Double-click the file to run.
+
 
 ## Welcome Screen
 After downloading and opening Voltra, you will see the Welcome screen. If you have already created a Voltra account, you may **Sign In** now. If you are a new user, skip to **Create Account**.
@@ -149,6 +149,8 @@ Voltra currently supports the following filetypes.
 | OGG  | <span></span>  | <span></span>  | <span></span>   |
 | FLAC | <span></span>  | <span></span>  | <span></span>   |
 | OPUS | <span></span>  | <span></span>  | <span></span>   |
+| ALAC (16-bit) | <span></span>  | <span></span>  | <span></span>   |
+| ALAC (24-bit) |   | <span></span>  |   |
 
 
 ## Navigation
@@ -253,4 +255,4 @@ And, optionally:
 -   Reveal File (for a track)
 
 
-<a href="/desktop/main-views" class="next">Next Section: Main Views →</a>
+<a href="/desktop/main-views.html" class="next">Next Section: Main Views →</a>

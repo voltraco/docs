@@ -7,8 +7,8 @@ We happily welcome contributions to our documentation! Please submit a pull requ
 This repo contains documentation for the following Voltra Products:
 -   Desktop Player
 -   Mobile Player
+-   Music Server
 -   Account
 -   Stockroom
--   Shop (coming soon)
 
 ![Docs](https://docs.voltra.co/images/docs.png)
