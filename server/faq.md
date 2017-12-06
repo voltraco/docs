@@ -15,7 +15,7 @@ The software will automatically update when connected to the internet.
 There is a 1-year limited warranty from the date of delivery that covers hardware issues. Contact Voltra Support to arrange for a replacement: support [at] voltra [dot] co
 
 ### Where do you ship to?
-Shipping is included in the price, and we can ship anywhere in the world.
+We can ship anywhere in the world.
 
 ### What if I already have the Voltra Audio Archive?
 The Voltra Music Server can be used alone or with the Voltra Audio Archive to ensure additional cloud music backup.
