@@ -33,7 +33,7 @@ It’s not just storage, it’s also a server with a protocol that replicates yo
 The Voltra Music Server will work with any broadband connection — dial-up is not supported. Connect via Ethernet directly to your modem or router for the fastest access.
 
 ### Do I need a static IP address?
-A static IP address is not required. Having one is nice, but if you don’t have one, we provide a network resolution service that you can use for free.
+Voltra Music Server works and is reachable to you form anywhere in the world regardless of whether you have a dynamic or static IP address.
 
 ### What is the backup battery used for?
 In the case that the Voltra Music Server loses power during an operation, there is a small backup battery that will protect it from corruption.
